@@ -24,5 +24,8 @@
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Ef þú gerir einhverja villu í framtíðinni og veist ekki hvernig á að laga hana þá getur þú bara fraið til baka þegar forritið virkaði eðlilega
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	* Working directory - Er svæðið sem þú vinnur í verkefninu sem þú tókst af Repository
+	* Staging area - Er mappa sem heldur utan um hvað fer í þínu næsta commit
+	* Repository - Er geymslan sem heldur utan um verkefnið
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
