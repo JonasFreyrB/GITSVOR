@@ -21,7 +21,7 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT? Það er kostur við það að GIT heldur um allar breytingar sem þú hefur gert í verkefninu, Það geta fleirri en einn unnið á sama verkefninu á sama tíma, Þú getur gert grein sem hefur enga áhrifa á aðal forritið ef breytingin gekk ekki upp.
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Ef þú gerir einhverja villu í framtíðinni og veist ekki hvernig á að laga hana þá getur þú bara fraið til baka þegar forritið virkaði eðlilega
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
