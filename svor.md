@@ -17,7 +17,7 @@
 	*	b) git diff --staged - sýnir munin á fyrra commit og files sem eru núna staged
 	*	c) git diff commit1 commit2 - sýnir munin á milli þessara tveggja commits
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. 	Hvað er útgáfustýring (e.version control)? Forrit sem heldur utan um allar breytingar sem hafa verið gerðar á verkefninu sem þú ert að vinna í. Forritið skrifar niður breytinganar og skrifar hvenær hún var gerð og hver gerði hana.
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 
