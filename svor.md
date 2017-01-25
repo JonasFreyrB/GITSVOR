@@ -28,4 +28,4 @@
 	* Staging area - Er mappa sem heldur utan um hvað fer í þínu næsta commit
 	* Repository - Er geymslan sem heldur utan um verkefnið
 
-8.	Hvenær er sniðugt að nota greinar (branches)? 
+8.	Hvenær er sniðugt að nota greinar (branches)? Þegar þú ætlar að prufa að gera einhverja breytingu sem þu ert ekki alveg viss um svo að þú skemmir ekki aðal verkefnið eða ætlar að halda áfram með verkefnið öðruvísi en langar ekki að breyta aðal verkefninu
