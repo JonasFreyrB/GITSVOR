@@ -1,9 +1,9 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+*	cd - change directory
+*	cd ~ - fer á root
+*	ls - listar möppur í directoryinu sem þú ert í
+*	pwd - Sýnir hvar þú ert staddur
+*	mkdir - Býr til nýja möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
