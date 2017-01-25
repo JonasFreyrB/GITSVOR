@@ -19,7 +19,7 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? Forrit sem heldur utan um allar breytingar sem hafa verið gerðar á verkefninu sem þú ert að vinna í. Forritið skrifar niður breytinganar og skrifar hvenær hún var gerð og hver gerði hana.
 
-5.	Hverjir eru helstu kostir við að nota GIT?
+5.	Hverjir eru helstu kostir við að nota GIT? Það er kostur við það að GIT heldur um allar breytingar sem þú hefur gert í verkefninu, Það geta fleirri en einn unnið á sama verkefninu á sama tíma, Þú getur gert grein sem hefur enga áhrifa á aðal forritið ef breytingin gekk ekki upp.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
