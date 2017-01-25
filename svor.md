@@ -6,11 +6,11 @@
 	*	mkdir - Býr til nýja möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	*	git clone - clónar verkefni í tilvalna möppu, hún er gagnleg til að clóna verkefni til þín ef þú vild vinna í því
+	*	git log	- Sýnir öll commitin, Ef þú vild vita hvenar þú commitaðir síðast
+	*	git status - sýnr stöðuna á tréinu sem þú ert að vinna á, Ef þú vild vita stöðuna
+	*	git diff - sýnir mun á commits,files eða trjám, Hún er gagnleg þegar þú vilt bera saman eitthvað tvennt
+	*	git checkout - til að skipta um grein, hún er gagnleg þegar þú vilt fara af master greininni eða á hana
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
