@@ -13,9 +13,9 @@
 	*	git checkout - til að skipta um grein, hún er gagnleg þegar þú vilt fara af master greininni eða á hana
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	*	a) git diff - gerir ekkert(Fann allaveganna ekkert um það)
+	*	b) git diff --staged - sýnir munin á fyrra commit og files sem eru núna staged
+	*	c) git diff commit1 commit2 - sýnir munin á milli þessara tveggja commits
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
